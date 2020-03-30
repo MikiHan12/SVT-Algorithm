@@ -6,11 +6,11 @@ A Singular Value Thresholding Method for Matrix Completion
 J-F Cai, E. J. Candès and Z. Shen, "A Singular Value Thresholding Method for Matrix Completion," SIAM Journal on Optimization, 20(4), 1956-1982.
 https://statweb.stanford.edu/~candes/papers/SVT.pdf
 
-Implemented the SVT algorithm to recover 1000 x 1000 matrices; 
-Recreated the experimental results; 
-Applied tge algorithm to real dataset;
-Tested the sensitivity;
-Analyzed the similarities and dissimilarities;
+- Implemented the SVT algorithm to recover 1000 x 1000 matrices; 
+- Recreated the experimental results; 
+- Applied the algorithm to real dataset;
+- Tested the sensitivity;
+- Analyzed the similarities and dissimilarities;
 
 ## Description of SVT algorithm
 
